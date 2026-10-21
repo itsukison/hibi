@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+*.tsbuildinfo
+
+# Vite
+.vite/
+vite.config.ts.timestamp-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment files (the demo uses none, but never commit them)
+.env
+.env.*
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Private design references (third-party screenshots, kept local only)
+inspo/
